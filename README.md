@@ -39,7 +39,3 @@ I build end-to-end AI systems — from local LLM agents and autonomous trading p
 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-dandge-2020b9328/) · [LeetCode](https://leetcode.com/u/Abhi2627/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi2627&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-</p>
