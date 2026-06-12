@@ -30,9 +30,9 @@ I build end-to-end AI systems — from local LLM agents and autonomous trading p
 
 | Paper | Conference | Status |
 |---|---|---|
-| Zero-Knowledge Proof for Secure Cloud Authentication | ICIoTCT 2025 — Springer/FrontierSciences | Accepted, in production |
+| Zero-Knowledge Proof for Secure Cloud Authentication | ICIoTCT 2025 — Springer Nature | Accepted, in production |
+| A Comprehensive Review of Zero-Knowledge Proofs in Attribute-Based Encryption Frameworks | ICNDIA 2026 - IEEE| Accepted |
 | ZKP + LSTM Behavioral Biometrics for Adaptive Authentication | — | In progress |
-
 ## Contact
 
 📧 abhicompany2001@gmail.com  
